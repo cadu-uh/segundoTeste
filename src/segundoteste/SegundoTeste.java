@@ -17,6 +17,7 @@ public class SegundoTeste {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Ola terraqueos");
+        System.out.println("Salve Ovnizão, vieram em paz?");
     }
     
 }
